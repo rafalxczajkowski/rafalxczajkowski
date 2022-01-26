@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rafal @xrttrx
+- 👋 Hi, I’m Rafal @rafalxczajkowski
 - 👀 I’m interested in programming, philosophy, astronomy
 - 🌱 I’m currently learning Python and Django
 - 💞️ I’m trying to become good enough to get a job
