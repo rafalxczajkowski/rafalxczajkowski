@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rafal @rafalxczajkowski
+- 👋 Hi, I’m Rafal
 - 👀 I’m interested in programming. I really like how computer listen and acts exacly like I say unlike people 😏
 - 🌱 I’m currently learning Python and bunch of other tools and technologies.
 - ❤️ Looking for something that fits me the best.
