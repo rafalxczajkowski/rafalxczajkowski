@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafal
-- 🖥️ I've been programming sometimes in my free time.
+- 🖥️ I've been programming non-commercially in my free time for 2+ years.
 
 <!---
 xrttrx/xrttrx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
