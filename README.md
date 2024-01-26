@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rafal
-- 📫 rafalxczajkowski@hotmail.com
-- ☕ [linkedin.com/in/rafalxczajkowski](https://www.linkedin.com/in/rafalxczajkowski)
+- 🖥️ I've been programming sometimes in my free time.
 
 <!---
 xrttrx/xrttrx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
