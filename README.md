@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Rafal
-🖥️ I've been learing programming in my free time for 2+ years, mostly in JavaScript and Python
+🖥️ I've been learing programming in my free time for 2+ years, mostly in JavaScript and Python\
 🛹 Currently I'm learning Go
 
 <!---
