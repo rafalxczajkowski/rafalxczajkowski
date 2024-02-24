@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Rafal
-🔥 I like typing, coding and computers in general\
+🔥 I like typing, coding and everything related to computers\
 🖥️ I've been learing programming in my free time for 2+ years, mostly in JavaScript and Python
 
 <!---
