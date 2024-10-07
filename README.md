@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Rafal
-🖥️ I like typing, coding and everything related to computers\
+🖥️ I like typing, coding and everything related to computers
 
 <!---
 xrttrx/xrttrx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
