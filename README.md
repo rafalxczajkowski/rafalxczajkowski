@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Rafal
+### 👋 Hi, I’m Rafał
 🖥️ I like typing, coding and everything related to computers
 
 <!---
